@@ -1,0 +1,27 @@
+
+.homeLink
+{
+    display: block;
+    margin-bottom: 10px;
+}
+
+.calculator
+{
+    border: black 1px solid;
+    padding: 10px;
+    display: inline-block;
+}
+
+.calculatorDisplay
+{
+    resize: none;
+    width: 95px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.calculatorTable button
+{
+    width: 30px;
+    height: 30px;
+}

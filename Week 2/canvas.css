@@ -1,0 +1,20 @@
+.homeLink
+{
+    display: block;
+    margin-bottom: 10px;
+}
+
+.display
+{
+    border: black 1px solid;
+}
+
+.points
+{
+    display: inline;
+}
+
+.reset
+{
+    display: inline;
+}

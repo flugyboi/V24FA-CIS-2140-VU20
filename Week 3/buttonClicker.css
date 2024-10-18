@@ -1,0 +1,34 @@
+.board-button 
+{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+}
+
+.board 
+{
+    position: relative;
+    width: 500px;
+    height: 500px;
+    border: black 1px solid;
+    margin: auto;
+}
+
+.start-button
+{
+    margin: auto;
+    width: fit-content;
+}
+
+.time-label
+{
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.time-display
+{
+    display: inline-block;
+    margin-left: 10px;
+    width: 100px;
+}

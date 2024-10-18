@@ -1,0 +1,20 @@
+input:invalid {
+    background-color: #ff9999;
+    border-color: #ff0000;
+}
+
+.order-form {
+    margin: auto;
+    width:fit-content;
+    background-color: bisque;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.custom-toppings {
+    padding-left: 10px;
+}
+
+body {
+    background-color: grey;
+}
